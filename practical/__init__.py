@@ -37,7 +37,7 @@ from practical.web import (
 
 __author__ = """apehex"""
 __email__ = 'apehex@protonmail.com'
-__version__ = '0.4.7'
+__version__ = '0.4.8'
 
 __all__ = [
     'convert_dict_to_array',

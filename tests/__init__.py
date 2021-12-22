@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
 
 __author__ = """apehex"""
 __email__ = 'apehex@protonmail.com'
-__version__ = '0.4.8'
+__version__ = version(__package__.split('.')[0])

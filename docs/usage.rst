@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use Practical apehex in a project::
+To use Practical Toolbox in a project::
 
     import practical

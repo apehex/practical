@@ -1,4 +1,4 @@
-Welcome to Practical apehex's documentation!
+Welcome to Practical Toolbox's documentation!
 ======================================
 
 Contents:

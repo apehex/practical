@@ -1,4 +1,4 @@
-* Practical apehex version:
+* Practical Toolbox version:
 * Python version:
 * Operating System:
 

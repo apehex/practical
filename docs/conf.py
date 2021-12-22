@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 #
 # practical documentation build configuration file, created by
 # sphinx-quickstart on Tue Jul  9 22:26:36 2013.
@@ -55,8 +54,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Practical apehex'
-copyright = u"2018, apehex"
+project = u'Practical Toolbox'
+copyright = u"2022, apehex"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -209,7 +208,7 @@ latex_elements = {
 # [howto/manual]).
 latex_documents = [
     ('index', 'practical.tex',
-     u'Practical apehex Documentation',
+     u'Practical Toolbox Documentation',
      u'apehex', 'manual'),
 ]
 
@@ -240,7 +239,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'practical',
-     u'Practical apehex Documentation',
+     u'Practical Toolbox Documentation',
      [u'apehex'], 1)
 ]
 
@@ -255,7 +254,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'practical',
-     u'Practical apehex Documentation',
+     u'Practical Toolbox Documentation',
      u'apehex',
      'practical',
      'One line description of project.',

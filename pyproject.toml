@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "practical"
+version = "0.4.8"
+description = ":wrench: Personal toolbox"
+license = "MIT"
+authors = ["apehex <apehex@protonmail.com>"]
+readme = ".github/README.rst"
+repository = "https://github.com/apehex/practical.git"
+keywords = ["python-types", "typing", "type-annotations", "type-hints", "data-validation", "unit", "conversion"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+beautifulsoup4 = "*"
+decorator = "*"
+lxml = "*"
+numpy = "*"
+sh = "*"
+sympy = "*"
+
+[tool.poetry.dev-dependencies]
+flake8 = "*"
+pytest = "*"
+sphinx = "*"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

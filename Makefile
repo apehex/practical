@@ -11,7 +11,7 @@ help:
 	@echo "release - package and upload a release"
 	@echo "sdist - package"
 
-init:	
+init:
 	pipenv --three
 	pipenv install --dev --skip-lock
 	pipenv install -r requirements.txt
@@ -37,7 +37,7 @@ clean-pyc:
 	find . -name '*~' -exec rm -f {} +
 
 lint:
-	pipenv run flake8 --output-file=.flake8.txt practical tests 	
+	pipenv run flake8 --output-file=.flake8.txt practical tests
 
 test:
 	pipenv run py.test --junitxml=.tests_report.xml

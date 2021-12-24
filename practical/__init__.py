@@ -8,6 +8,7 @@ online at __
 """
 
 from __future__ import division, print_function, absolute_import
+from importlib.metadata import version
 
 from practical.arrays import (
     convert_dict_to_array,

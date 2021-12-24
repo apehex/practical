@@ -14,7 +14,7 @@ To install Practical Toolbox, run this command in your terminal:
 
     $ pip install practical
 
-This is the preferred method to install Practical Toolbox, as it will always install the most recent stable release. 
+This is the preferred method to install Practical Toolbox, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/moodule/practical
+    $ git clone git://github.com/apehex/practical
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/moodule/practical/tarball/master
+    $ curl  -OL https://github.com/apehex/practical/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/moodule/practical
-.. _tarball: https://github.com/moodule/practical/tarball/master
+.. _Github repo: https://github.com/apehex/practical
+.. _tarball: https://github.com/apehex/practical/tarball/master
